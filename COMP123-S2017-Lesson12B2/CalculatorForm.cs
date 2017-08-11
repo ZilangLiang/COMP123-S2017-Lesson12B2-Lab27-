@@ -13,7 +13,7 @@ using System.Windows.Forms;
  * Name: Tom Tsiliopoulos
  * Date: August 3, 2017
  * Description: Calculator Demo Project
- * Version: 1.2 - Fixed bug in CalculatorButton_Click 
+ * Version: 1.3 - Added "X" and "÷" and "<" functions
  */
 
 namespace COMP123_S2017_Lesson12B2
